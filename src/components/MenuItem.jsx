@@ -6,7 +6,5 @@ export default function MenuItem({title, address}) {
     <Link href={address} className='hover:text-amber-500'>
         <p className='uppercase text-sm'>{title}</p>
     </Link>
-      
-    
   );
 }
