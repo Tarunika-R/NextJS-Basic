@@ -9,7 +9,6 @@ export default function Header() {
         <MenuItem title='contact' address='/contacts'/>
       </div>
       <div className=''>
-
       </div>
     </div>
   )
